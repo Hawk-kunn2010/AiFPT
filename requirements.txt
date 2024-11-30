@@ -6,3 +6,4 @@ pandas
 python-docx
 python-dotenv
 langchain-community
+openpyxl
