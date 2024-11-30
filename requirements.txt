@@ -5,3 +5,4 @@ pypdf2
 pandas
 python-docx
 python-dotenv
+langchain-community
