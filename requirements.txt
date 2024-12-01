@@ -7,3 +7,4 @@ python-docx
 python-dotenv
 langchain-community
 openpyxl
+json
